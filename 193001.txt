@@ -1,0 +1,11 @@
+
+A porta abre e voce entra em um pequeno compartimento. Seus olhos se arregalam quando voce
+olha em volta e ve que as paredes do compartimento sao cobertas por trabalhos elaborados em
+pedra. Mosaicos e baixo-relevos em marmore conferem a este aposento um tipo de beleza que voce
+jamais tinha visto antes. Em um canto do aposento ha uma grande estatua de metal, representando
+uma criatura de um olho so. Em seu unico olho ha uma joia cintilante. Como nao parece haver
+nenhum outro caminho para sair do aposento, voce tera que voltar a encruzilhada - mas aquela
+grande joia e muito tentadora. Voce vai deixa-la onde esta e retornar a encruzilhada (Digite 93)
+ou tentara levar a joia com voce (Digite 338)?$
+Digite 93 
+Digite 338 

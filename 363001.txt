@@ -1,0 +1,7 @@
+
+Seguindo pela passagem na parede oeste, voce ve outra porta semelhante. Voce escuta junto a porta
+e faz uma careta ao ouvir a voz mais desafinada que seus ouvidos ja conheceram! Voce quer entrar
+no aposento para investigar o horroroso som (Digite 370) ou seguir adiante pela passagem (Digite 42)?$
+
+Digite 370
+Digite 42$ 

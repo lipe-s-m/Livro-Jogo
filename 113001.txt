@@ -1,0 +1,5 @@
+
+Voce chega a uma outra encruzilhada na passagem. Voce pode seguir para o norte (Digite 285) ou
+continuar para o leste (Digite  78).$
+Digite 285 
+Digite 78 

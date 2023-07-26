@@ -1,0 +1,6 @@
+Ao perceber que voce nao era um monstro, o prisioneiro
+hesita em te atacar, porem voce, tomado pela sede de sangue,
+atinge o prisioneiro na barriga com sua faca. O prisioneiro cai
+no chao e morre no local.
+
+Digite 300 para voltar ao corredor$

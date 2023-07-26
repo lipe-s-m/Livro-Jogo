@@ -1,0 +1,25 @@
+
+Finalmente a sua caminhada de dois dias chegou ao fim. Voce desembainha a sua espada, coloca-a
+no chao e suspira aliviado, enquanto se abaixa para se sentar nas pedras cheias de musgo para um
+momento de descanso. Voce se espreguica, esfrega os olhos e, afinal, olha para a Montanha do
+Cume de Fogo.
+
+A propria montanha em si ja tem um ar ameacador. Algum animal gigantesco parece ter deixado as
+marcas de suas garras na encosta ingreme diante de voce. Penhascos rochosos e pontudos se
+projetam, formando angulos estranhos. No cume voce ja pode vislumbrar a sinistra coloracao
+vermelha - provavelmente alguma vegetacao misteriosa - que deu nome a montanha. Talvez
+ninguem jamais chegue a saber o que cresce la em cima, uma vez que escalar o pico deve ser com
+certeza impossivel.
+
+Sua busca esta para comecar. Do outro lado da clareira ha uma escura entrada de caverna. Voce
+pega a sua espada, levanta-se e considera que perigos podem estar a sua frente. Mas, com
+determinacao, voce recoloca a sua espada na bainha e se aproxima da caverna.
+
+Voce da uma primeira olhada na penumbra e ve-paredes escuras e umidas com pocas de agua no
+chao de pedra a sua frente. O ar e frio e umido. Voce acende a sua lanterna e avanca
+cautelosamente pela escuridao. Teias de aranha tocam seu rosto e voce ouve a movimentacao
+de pes minusculos: muito provavelmente, ratazanas. Voce adentra a caverna. Depois de uns
+poucos metros, chega logo a uma encruzilhada. Voce vai virar para o oeste (Digite 71) ou
+para o leste (Digite 278)?$
+Digite 71: <--
+Digite 278: -->

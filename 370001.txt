@@ -1,0 +1,12 @@
+
+A porta se abre e revela um pequeno aposento, que esta sujo e mal cuidado. Um colchao de palha se
+encontra em um dos cantos. No centro do aposento ha uma mesa de madeira, na qual brilha uma
+vela iluminando o ambiente com sua luz tremula. Uma pequena caixa repousa sobre a mesa.
+Sentados em volta da mesa estao dois seres pequenos, com a pele cheia de verrugas e vestidos com
+armaduras de couro. Estao tomando algum tipo de bebida forte e, pelo jeito como se levantam
+cambaleantes quando voce chega, demonstram estar muito embriagados. Voce pode empunhar a sua
+espada e ataca-los (Digite  116) ou fechar a porta rapidamente e correr subindo pela passagem
+(Digite  42).$
+
+Digite 116 
+Digite 42 

@@ -1,0 +1,10 @@
+Uma tocha ilumina essa sala. Armas e armaduras de diversos 
+tipos estão nas estantes ou penduradas em ganchos pelas paredes.
+Cestos cheios de dardos e flechas se encontram na parede ao norte.
+Pendurado ao lado oposto da sala, esta um escudo circular com uma 
+lua crescente dourada no seu centro. 
+
+Atras dele esta escrito o nome: Aaron D'gar, aparentemente um guerreiro
+de passado muito glorioso e honroso, voce pega o escudo pra si.
+
+Digite 300 Para voltar ao corredor.$

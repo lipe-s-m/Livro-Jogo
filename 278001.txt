@@ -1,0 +1,6 @@
+Voce coloca seu peso contra a porta e a empurra
+com toda sua forca. Com um som de quebra, as
+dobradicas abrem caminho e a porta se abre, e voce
+entra tropecando na sala. Infelizmente, o lugar nao
+tem chao!
+$

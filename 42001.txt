@@ -1,0 +1,5 @@
+
+Afinal voce chega ao final da trilha, em um encontro de tres caminhos. Voce pode ir para o oeste
+(Digite 257) ou para o leste (Digite 113).$
+Digite 257 
+Digite 113 

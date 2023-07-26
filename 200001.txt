@@ -1,0 +1,24 @@
+Voce desvia do prisioneiro, ele cai no chao e fica
+parado te olhando. Ao tentar falar com o prisioneiro,
+ele comeca a chorar e diz a sua historia.
+
+Essa eh uma cela de uma prisao. O homem no inte-
+rior eh Aaron D'gar, um aventureiro que adentrou a
+Montanha ha muitos anos em busca do tesouro do
+Feiticeiro.
+
+Aaron foi capturado por um Orc que atendia pelo
+nome de Grishak e foi jogado nessa cela. Aaron tem
+estado aqui por tanto tempo que os Orcs e Goblins
+passaram a olhar para ele mais como um bicho de
+estimacao do que como um prisioneiro.
+
+Os anos passaram muito lentos para Aaron. Ele esta
+mais do que farto de sua vida de cativo e decidiu que
+hoje eh o dia em que ira buscar sua liberdade. Quando
+a porta abriu, tendo chegado ao limite apos anos de
+maus tratos e negligencias, ele ataca pensando que
+seus carrascos Orcs retornaram.
+
+Para continuar a conversa, Digite 201
+Para Ignorar Aaron, digite 314$

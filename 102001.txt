@@ -1,0 +1,7 @@
+Ao entrar na sala, voce ve dois goblins descontrolados, interrogando
+um anao, que esta amarrado no teto de cabeca pra baixo, como uma pinhata.
+Os goblins riem sadicamente enquanto torturam-o. Se voce deseja intervir
+e atacar os goblins (103). Se deseja ignorar a cena (303).
+
+Digite 103 para salvar o anao
+Digite 303 para continuar seu caminho.$

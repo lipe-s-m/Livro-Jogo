@@ -1,0 +1,7 @@
+
+Voce limpa a sua espada ensanguentada no colchao. O sangue verde deixa uma mancha pastosa na
+palha. Apos essa batalha, voce fica inundado de cerveja e sente fortes nauseas por conta do cheiro
+
+Voce perde 1 ponto de ENERGIA
+
+Digite 42 para continuar.$

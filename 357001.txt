@@ -1,0 +1,6 @@
+Voce consegue pegar a espada! Realmente voce
+nunca tinha visto uma arma de qualidade melhor
+que essa. Porem, acidentalmente voce eh atingido
+pelo chicote do enorme Orc, voce cai com o impacto.
+A espada cai em seguida, voce tenta desviar dela, 
+porem ela atinge seu corpo, cortando voce ao meio.$

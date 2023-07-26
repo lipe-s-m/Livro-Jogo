@@ -1,0 +1,8 @@
+Emocionado com sua bondade, Aaron revela pra voce o seguinte:
+No final do corredor, existem duas alavancas. Para abrir a ponte levadica,
+voce deve puxar a alavanca da direita. A outra alavanca contem uma armadilha.
+
+Aaron lhe agradece por te-lo libertado, se despede e vai embora.
+Voce ganha +1 de habilidade por sua boa acao.
+
+Digite 300 para voltar ao corredor.$

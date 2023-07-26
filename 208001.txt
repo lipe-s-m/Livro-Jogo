@@ -1,0 +1,5 @@
+Mais adiante na passagem, seguindo a parede oeste, voce ve outra porta. Voce
+escuta com o ouvido colado nela, mas nao ouve nada. Se quiser tentar abrir esta
+porta, Digite 397. Se quiser continuar na direcao norte, Digite 363.$
+Digite 397 
+Digite 363 

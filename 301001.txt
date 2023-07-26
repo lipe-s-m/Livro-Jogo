@@ -1,0 +1,7 @@
+ 
+A sua esquerda, na parte oeste da passagem, ha uma porta de madeira rustica.
+Voce para junto a ela e ouve um som aspero que poderia ser de algum tipo de
+criatura roncando. Voce quer abrir a porta? Em caso afirmativo, Digite 82. Se quiser
+seguir adiante para o norte, Digite 208.$
+Digite 82 
+Digite 208 

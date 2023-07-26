@@ -1,0 +1,8 @@
+
+Enquanto voce esta sentado no banco comendo a sua refeicao, comeca a se sentir profundamente
+relaxado, e as dores de seu corpo parecem estar desaparecendo aos poucos. Este lugar de descanso e
+encantado. 
+Caso algum atributo atual esteja menor doque seu atributo inicial, voce ira recupera-los,
+voltando ao valor inicial, caso o atual seja maior que o inicial, nada acontece. 
+Quando estiver pronto para continuar, siga pela passagem (323)$
+Digite 323$

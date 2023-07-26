@@ -1,0 +1,3 @@
+A porta esta trancada. Voce pode tentar derruba-la jogando dois dados. Se o
+numero obtido for MENOR do que o seu indice de SORTE, a porta cede
+e abre!$

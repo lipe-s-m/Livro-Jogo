@@ -1,0 +1,7 @@
+Voce caiu numa armadilha!
+
+Ao puxar a alavanca, a ponte levadica se suspende no ar, e cai sobre voce.
+Voce morre instantaneamente.
+
+Voce deveria ouvir mais os conselhos que te dao...
+$

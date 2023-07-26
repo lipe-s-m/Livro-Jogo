@@ -1,0 +1,3 @@
+
+Voce chega de volta a encruzilhada e desta vez segue na direcao norte.
+Digite 9 para continuar$

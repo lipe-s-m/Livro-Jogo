@@ -1,0 +1,871 @@
+
+BOATOS
+
+Somente um aventureiro imprudente partiria em uma busca tao perigosa sem primeiro descobrir o
+maximo possivel a respeito da montanha e seus tesouros. Antes da sua chegada ao pe da
+Montanha do Cume de Fogo, voce passou diversos dias com as pessoas da cidadezinha local, a uns
+dois dias de viagem da base do monte. Por ser uma pessoa simpatica, voce nao teve muita
+dificuldade em se relacionar com os camponeses da regiao. Embora eles contassem muitas historias
+sobre o misterioso santuario do Feiticeiro, voce nao ficou muito convencido de que todas - ou
+alguma delas, na realidade - eram baseadas em fatos reais. Os moradores da vila tinham visto
+muitos aventureiros passarem por la a caminho da montanha, mas muito poucos retornaram algum
+dia. A jornada que voce tinha pela frente era extremamente perigosa, isso voce sabia com certeza.
+Nenhum daqueles que retornaram a cidadezinha pensava em voltar a Montanha do Cume de Fogo.
+
+Parecia haver algum grau de verdade no boato de que o tesouro do Feiticeiro estava guardado em
+uma arca magnifica, com duas fechaduras, e que as chaves para estas fechaduras ficavam guardadas
+por varios seres horripilantes dentro das cavernas. O proprio Feiticeiro era um magico de grande
+poder. Alguns o descreviam como sendo um velho, outros como um jovem. Alguns diziam que seu
+poder provinha de um baralho encantado, outros que era derivado das luvas de seda negra que ele
+sempre usava.
+
+A entrada da montanha era guardada por um bando de Goblins com o rosto cheio de verrugas,
+criaturas estupidas que adoravam comer e beber. Nas camaras mais interiores, os seres se tornavam
+mais assustadores. Para chegar as camaras interiores voce teria que atravessar um rio. O servico de
+travessia era regular, mas o barqueiro gostava sempre de fazer bons negocios, por isso voce deveria
+ter uma Peca de Ouro para a viagem. Os habitantes locais tambem o incentivaram a fazer um bom
+mapa de sua trajetoria pois sem um mapa voce terminaria se perdendo irremediavelmente no
+interior da montanha.
+
+Quando finalmente chegou o seu dia de partir, a vila inteira apareceu para desejar a voce uma
+viagem segura. Os olhos de muitas da mulheres se encheram de lagrimas, tanto das jovens quanto
+das velhas. Voce nao conseguiu evitar de pensar se nao seriam lagrimas antecipadas de sofrimento,
+choradas por olhos que nao voltariam a ve-lo vivo.
+
+@1001
+Finalmente a sua caminhada de dois dias chegou ao fim. Voce desembainha a sua espada, coloca-a
+no chao e suspira aliviado, enquanto se abaixa para se sentar nas pedras cheias de musgo para um
+momento de descanso. Voce se espreguica, esfrega os olhos e, afinal, olha para a Montanha do
+Cume de Fogo.
+
+A propria montanha em si ja tem um ar ameacador. Algum animal gigantesco parece ter deixado as
+marcas de suas garras na encosta ingreme diante de voce. Penhascos rochosos e pontudos se
+projetam, formando angulos estranhos. No cume voce ja pode vislumbrar a sinistra coloracao
+vermelha - provavelmente alguma vegetacao misteriosa - que deu nome a montanha. Talvez
+ninguem jamais chegue a saber o que cresce la em cima, uma vez que escalar o pico deve ser com
+certeza impossivel.
+
+Sua busca esta para comecar. Do outro lado da clareira ha uma escura entrada de caverna. Voce
+pega a sua espada, levanta-se e considera que perigos podem estar a sua frente. Mas, com
+determinacao, voce recoloca a sua espada na bainha e se aproxima da caverna.
+
+Voce da uma primeira olhada na penumbra e ve-paredes escuras e umidas com pocas de agua no
+chao de pedra a sua frente. O ar e frio e umido. Voce acende a sua lanterna e avanca
+cautelosamente pela escuridao. Teias de aranha tocam seu rosto e voce ouve a movimentacao
+de pes minusculos: muito provavelmente, ratazanas. Voce adentra a caverna. Depois de uns
+poucos metros, chega logo a uma encruzilhada. Voce vai virar para o oeste (Digite 71) ou
+para o leste (Digite 278)?$
+
+@7001
+Voce esta na margem norte de um rio de correnteza rapida que corre em uma grande caverna
+subterranea. Digite 214.$
+
+@8001
+A passagem a sua frente termina em uma porta solida. Voce tenta escutar algo mas nao ouve nada.
+Voce experimenta a macaneta, ela gira e voce entra no aposento. Voce olha em volta e, de repente,
+ouve um grito de guerra atras de voce: ao se virar, ve um homem selvagem que salta sobre voce,
+brandindo uma grande arma. Trata-se de um BARBARO louco e voce tera que lutar contra ele!
+
+BARBARO HABILIDADE 7 ENERGIA 6
+
+Ha uma porta na parede norte do outro lado atraves da qual voce pode Fugir durante o confronto
+(Digite 189). Se voce derrotar o Barbaro, Digite 273.$
+
+@15001
+Enquanto voce esta sentado no banco comendo a sua refeicao, comeca a se sentir profundamente
+relaxado, e as dores de seu corpo parecem estar desaparecendo aos poucos. Este lugar de descanso e
+encantado. Voce pode recuperar 2 pontos adicionais de ENERGIA, como tambem ate a quantidade
+normal (mas somente se isso nao ultrapassar seu indice Inicial de ENERGIA), e recuperar 1 ponto
+de HABILIDADE, se algum ja tiver sido perdido. Quando estiver pronto para continuar, siga pela
+passagem e Digite 367.$
+
+@25001
+Os quadros pintados sao retratos de homens. Voce sente Um frio na espinha ao ler a inscricao
+embaixo do que esta na parede oeste - e o nome de Zagor, o Feiticeiro, cujo tesouro voce esta
+procurando. Voce olha para o retrato dele e compreende que esta medindo forcas com um
+adversario poderossissimo. Voce tem a sensacao de estar sendo observado e repara nos olhos
+penetrantes que o seguem nos seus movimentos. Voce se sente atraido para o retrato e o medo
+aumenta. Perca 1 ponto de HABILIDADE. Voce tem mesmo coragem de enfrentar e combater o
+Feiticeiro? Voce pode sair direto pela porta norte (Digite 90) - mas considere isso como uma Fuga.
+Ou voce pode tambem procurar em sua mochila uma arma para usar contra o poder do Feiticeiro –
+Digite 340.$
+
+@26001
+De repente voce se lembra do pequeno livro de capa de couro de Di Maggio e murmura suavemente
+as palavras magicas contidas em suas paginas. Voce grita alto com o Dragao e ele para de avancar.
+Vira a cabeca de lado e olha desconfiadamente para voce. Voce joga uma pedra na sua cabeca, que
+quica em seu nariz. A fera solta um berro raivoso e respira fundo, provocando o som de um rugido
+no fundo da garganta. O Dragao solta o ar e, entre seus dentes, voce ve uma outra bola de fogo se
+formando. Voce se prepara e, quando a bola de fogo sai de sua boca, grita:
+
+"Ekil Erif Ekam Erif Erif Erif Di Maggio"
+
+A bola de fogo interrompe seu avanco. Com um berro de agonia, o Dragao tenta se livrar das
+chamas em seu focinho. Mas elas continuam a queimar ali mesmo. Gemendo de dor, o Dragao se
+vira e salta para a escuridao, sacudindo a cabeca de um lado para o outro. Digite 371.$
+
+@27001
+A espada e encantada e o ajudara na batalha. Enquanto voce usar esta espada, podera aumentar sua
+HABILIDADE Inicial em 2 pontos. Voce pode tambem aumentar 2 pontos no valor atual de sua
+HABILIDADE. Acrescente 2 pontos a sua SORTE por ter encontrado esta espada. Jogue fora a sua
+espada velha e Digite 319. Se voce preferir ficar coma sua propria espada, deixe sua
+HABILIDADE como esta e fique apenas com o premio da SORTE.$
+
+@31001
+Se voce tiver a joia do Olho do Ciclope, segure-a diante do Feiticeiro. Seu olhar intimidador se
+transforma em uma expressao de dor. Ele obviamente sente o poder da joia. Subitamente os olhos
+dele ficam brancos e sua expressao torna-se ausente. A confianca cresce a medida em que voce
+toma consciencia de que venceu a sua primeira verdadeira batalha. Ganhe 2 pontos de
+HABILIDADE. Ponha a joia de volta em sua mochila e saia pela porta norte. Digite 90.$
+
+@36001
+A porta trancada abre-se violentamente e um mau cheiro insuportavel chega as suas narinas. Dentro
+do aposento, o chao esta coberto de ossos, vegetacao apodrecida e lodo. Um velho de cabelos
+desgrenhados, vestido de trapos, salta sobre voce gritando. Tem uma barba longa e grisalha e
+sacode um velho pe de cadeira de madeira. Ele simplesmente esta louco, como parece, ou isto e
+algum tipo de armadilha? Se voce preferir ataca-lo, Digite 348. Se preferir tentar falar com ele,
+Digite 200.$
+
+
+@37001
+Em pe na encruzilhada, voce pode ir para o norte (Digite 366), para o oeste (Digite  11) ou para
+o sul (Digite 277).$
+
+@42001
+Afinal voce chega ao final da trilha, em um encontro de tres caminhos. Voce pode ir para o oeste
+(Digite 257) ou para o leste (Digite 113).$
+
+@48001
+Voce esta em um corredor que vai de leste para oeste. Se voce for para leste, ha uma curva que se
+dirige ao norte. Para tomar este caminho, Digite 391. Para seguir para o oeste, Digite 60.$
+
+@49001
+A porta range ao abrir. As dobradicas estao enferrujadas. O aposento esta escuro e seus olhos
+comecam a se adaptar melhor a escuridao quando voce fecha a porta atras de si. Voce ouve um
+ruido no aposento mas, antes que possa reagir, um golpe na cabeca o derruba sem sentidos. Perca 2
+pontos de ENERGIA e Digite 122.$
+
+@52001
+Voce esta de pe em uma encruzilhada em forma de T, onde uma passagem para leste sai de um
+corredor que vai do norte para o sul.
+
+     Para ir para o sul                           Digite 391
+     Para verificar se ha passagens
+        secretas no caminho para o sul            Digite 362
+     Para ir para o norte                         Digite 354
+     Para verificar se ha passagens secretas
+        no caminho para o norte                   Digite 234
+     Para ir para o leste                         Digite 291$
+
+@54001
+Voce esta junto a uma porta na extremidade norte de uma passagem que vai do norte para o sul.
+Para ir para o sul, Digite 308. Para passar pela porta, Digite 179.$
+
+@58001
+Cuidadosamente, voce se afasta pela passagem. Depois de um curto periodo de tempo, ela faz uma
+curva fechada para o norte. Na curva, ha um banco de madeira solida e, acima do banco, um aviso
+que diz: "Descanse Aqui, Fatigado Viajante." Aqui voce pode parar e comer umas Provisoes, se
+voce quiser (Digite 15), ou pode continuar (Digite 367).$
+
+@71001
+Ha uma curva na passagem para a direita, levando para o norte. Cautelosamente, voce se aproxima
+de um posto de sentinela em um canto e, ao olhar para dentro, ve um ser estranho, parecido com um
+Goblin, vestido de armadura de couro e adormecido em seu posto. Voce tenta passar por ele na
+ponta dos pes. Teste a sua Sorte. Se voce tiver sorte, ele nao acorda e continua a roncar alto – va
+para 301. Se voce nao tiver sorte, voce pisa em terreno mole e faz um barulho, e os olhos do ser se
+abrem instantaneamente – Digite 248.$
+
+@73001
+A passagem a sua frente o conduz para o norte. O solo pedregoso vai se tornando arenoso ate que,
+no final, voce esta andando sobre uma especie de areia grossa. Voce nota que a passagem esta se
+alargando cada vez mais e consegue ouvir um rio correndo ali perto. Voce continua em frente ate se
+encontrar em uma grande caverna por dentro da qual passa um rio. Digite 218.$
+
+@75001
+Voce senta e descansa da batalha exaustiva. Voce pode comer algo das Provisoes neste
+momento.Voce retira a joia da estatua impassivel. Ela pesa bastante em sua mao e deve valer umas
+50 Pecas de Ouro. Voce guarda a joia em sua mochila. Ao explorar o aposento e a estatua, voce
+repara que uma das partes do peitoral dela esta solta. Ao abri-la, ha uma pequena chave do lado de
+dentro. Voce a examina e nota que existe o numero 111 escrito nela. Com um sorriso, voce poe a
+chave tambem em sua mochila e volta para a encruzilhada. Digite 93, depois de adicionar 3 pontos
+a sua SORTE – voce conseguiu um artefato valioso.$
+
+@81001
+Um ruido o assusta, fazendo com que voce pense em sair do aposento o mais rapido possivel. Voce
+anda ate a porta norte para investigar. Digite 205.$
+
+@85001
+Voce esta novamente em uma encruzilhada.
+
+       Para seguir para o norte            Digite 106
+       Para seguir para o sul              Digite 373
+       Para seguir para o leste            Digite 318
+       Para seguir para o oeste            Digite 59$
+
+@89001
+Voce sobe pela abertura e chega ao topo de uma estreita escadaria que desce. Cuidadosamente, voce
+desce as escadas... Digite 286$
+
+@90001
+Voce abre a porta que da para uma passagem estreita e segue na direcao norte. Alguns metros
+adiante seguindo a passagem, ha uma curva para o leste e, depois, outra para o norte. Porem, nesta
+segunda curva, ha uma pequena alcova na rocha. Parece um esconderijo bastante conveniente e uma
+grande rocha forma um assento confortavel. Voce pode parar aqui e comer uma parte das Provisoes,
+se voce quiser. Quando tiver descansado, continue para o norte. Digite 253.$
+
+@93001
+Voce chega de volta a encruzilhada e desta vez segue na direcao norte. Digite 8.$
+
+@104001
+Voce se encontra em uma passagem curta e estreita com uma porta a sua frente, do lado norte. Voce
+tenta abrir esta porta. Digite 49.$
+
+@105001
+Voce vasculha sua mochila. O que ha la dentro? Voce pode tentar usar qualquer um dos itens que se
+seguem, se voce os tiver em sua Lista de Equipamentos:
+
+       Pocao de Invisibilidade              Digite  39
+       O Olho do Ciclope                    Digite 382
+       Um pedaco de Queijo                  Digite 368
+       Arco com Flecha de Prata             Digite 194
+       Uma Vara em Forquilha                Digite 215$
+
+
+@106001
+A passagem a sua frente segue para o norte por algum tempo. Voce pode descansar ao longo da
+passagem para comer umas Provisoes. Depois, ela faz uma curva para o oeste e comeca a ficar bem
+estreita. Voce chega a um pequeno arco rochoso que forcara voce a se agachar para ir em frente. Do
+outro lado do arco, voce para e olha a sua volta. Voce esta em uma grande caverna que desaparece
+na escuridao densa. A caverna e parcialmente iluminada por luz natural, que penetra por um buraco
+no teto. Voce nao consegue enxergar nenhum caminho para atravessa-la.
+
+Ao lancar a luz de sua lanterna circularmente pela caverna, voce ouve um ronco. Uma luz fosca
+surge na escuridao. De repente, um jato de fogo irrompe das profundezas da caverna, quase
+atingindo voce e indo chamuscar os musgos da parede! Voce se atira ao chao e olha para a frente:
+um grande DRAGAO se aproxima na sua direcao, vindo da escuridao. Da suas narinas brotam rolos
+de fumaca. Sua pele vermelha e coberta de escamas brilha sob uma substancia oleosa que a recobre.
+A fera tem uns 15 metros de comprimento! Como voce vai atacar este monstro?
+
+       Desembainha a sua espada e se prepara para atacar?                 Digite 152.
+       Procura na sua memoria um outro meio de ataque?                    Digite 126$
+
+
+@107001
+Voce atravessa o aposento na ponta dos pes, sobe uma escada estreita cujo topo leva a uma
+passagem. "Foi facil", voce pensa, e comeca a se perguntar se teria valido a pena revistar os corpos.
+Se voce quiser retornar e revistar os corpos, comecando com o terceiro, Digite 148. Se quiser
+seguir adiante, Digite 197.$
+
+
+@110001
+Voce agora esta oito Pecas de Ouro mais rico. Voce encontra tambem mais duas Pecas de Ouro em
+sua bota, escondidas la por razoes de seguranca. Digite 319. Registre o Ouro adicional em sua
+Folha de Aventuras.$
+
+
+@113001
+Voce chega a uma outra encruzilhada na passagem. Voce pode seguir para o norte (Digite 285) ou
+continuar para o leste (Digite  78).$
+
+
+@115001
+Os pobres coitados mortos a seus pes ate parecem felizes de terem sido aliviados do peso de Viver.
+Mas, ao olhar bem para eles, voce sente que nao e o unico a tomar conhecimento de suas mortes.
+Examinando o aposento, voce pode:
+
+       Investigar as armas espalhadas em volta           Digite  95
+       Ir ate o cadaver no canto nordeste                Digite 313
+       Verificar os barris                               Digite 330$
+
+
+@116001
+Os dois ORCAS bebados que voce esta enfrentando agora estao evidentemente espantados com a
+sua entrada e, tao rapido quanto sao capazes, saem em busca de armas. Voce tem que atacar um de
+cada vez. A bebedeira deles permite que voce acrescente 1 ponto ao resultado do dado quando jogar
+para estabelecera sua Forca de Ataque, durante cada Serie de Ataques.
+
+                            HABILIDADE              ENERGIA
+Primeiro ORCA                    5                     4
+Segundo ORCA                     5                     5
+
+Se voce vencer a batalha, Digite 378. Se voce quiser Fugir durante a batalha, pode fazer isso
+voltando para 42.$                                                                                   
+
+
+@122001
+Voce acorda com a cabeca latejando e olha em volta. O aposento tem uns oito metros quadrados,
+com portas para o norte e para o sul. Voce foi jogado no canto sudoeste. De pe, imoveis no centro
+do aposento, estao quatro homens. Pelo menos, eles parecem ser homens. Possuem uma pele de cor
+cinza-esverdeada. Suas roupas estao rasgadas e em farrapos - e estao todos olhando fixamente para
+o teto com olhos vazios. Um possui um porrete, outro uma foice, o terceiro uma picareta e o ultimo
+um machado. Estao ignorando voce completamente.
+
+Espalhadas pelo aposento, ha varias armas do estilo campones (forcados, cabos de machados, varas
+pontudas, etc.), um ou dois escudos e diversos barris. No canto nordeste, ha um cadaver de um ser
+humano com uma espada em uma das maos e um escudo na outra. Voce toca a cabeca com a mao,
+em busca de sinais de sangue, e fica aliviado ao descobrir que voce nao esta sangrando. Porem, ao
+mexer a mao, os estranhos seres que estao no centro do aposento viram os olhos na sua direcao.
+Voce:
+
+              Tenta conversar com eles?                           Digite 268.
+              Fica de pe e os ataca com sua espada?               Digite 282
+              Corre para escapar pela porta sul?                  Digite 13.$
+
+
+@126001
+O nome "Farrigo Di Maggio" significa alguma coisa para voce? Em caso negativo, voce tem que
+lutar contra o Dragao. Digite 152. Se significar algo, Digite 26.$
+
+
+@128001
+Voce ouve o profundo ruido de um ronco e o chao comeca a tremer. Lenta e ruidosamente, a porta
+levadica comeca a subir para o teto. Voce pode agora caminhar para a encruz
+
+ilhada. Voce seguira
+para o oeste (Digite 210) ou para o leste (Digite 58)?$
+
+
+@139001
+Durante a sua aventura, voce devera ter encontrado diversas chaves e provavelmente tera recolhido
+algumas delas. Voce pode agora usar tres destas chaves para tentar abrir as fechaduras da arca.
+
+Cada chave esta identificada por um numero. Para determinar se voce tem as chaves certas, some
+seus tres numeros. Agora va ate a secao que possui o mesmo numero que este total, onde voce
+descobrira se usou as chaves corretas.
+
+Se voce nao tiver tres chaves numeradas, entao chegou ao fim de sua jornada. Voce senta na arca e
+chora ao tomar consciencia de que tera que explorar a montanha mais uma vez a fim de encontrar as
+tais chaves.$
+
+
+@145001
+A caixa caiu no chao durante a sua luta com a Serpente, e de dentro dela caiu uma chave de cor de
+bronze com o numero 99 gravado nela. Voce pode levar esta chave com voce (anote isto na sua
+Lista de Equipamento) e sair do aposento. Adicione 1 ponto de SORTE e Digite 363.$
+                                             
+
+
+@160001
+Voce segue por uma longa passagem estreita que vai para o sul, depois para o leste, depois para o
+sul de novo ate que, finalmente, voce chega a uma encruzilhada. Digite 267.$
+
+
+@169001
+Uma por uma, todas as chaves estalam e giram nas fechaduras. Voce as colocou corretamente!
+Quando a ultima chave gira, a tampa da arca se abre e voce a levanta. Digite 400 para saber o que
+ha dentro dela.$
+
+
+@179001
+Voce entrou em um aposento grande e quadrado. Vasos partidos estao espalhados por toda parte.
+Um grande vaso de argila esta intacto e cheio de um liquido claro. Ha uma grande tigela cheia de
+moedas de ouro. Quando voce entra no aposento, a porta bate as suas costas e voce se vira para se
+defrontar com um ser de aparencia estranha - metade homem, metade touro - que olha fixamente
+para voce. E um MINOTAURO, e ele esta vindo na sua direcao! Ele abaixa a cabeca, os chifres
+apontando para o seu peito, e ataca. Voce tera que lutar contra ele:
+
+MINOTAURO             HABILIDADE 9          ENERGIA 9
+
+Depois de tres Series de Ataque, voce manobra de forma a poder correr pela porta, depois de
+contornar o monstro. Se quiser Fugir nesse momento, Digite 54 e pague a penalidade de vida.
+Se continuar a lutar e conseguir matar o monstro, Digite 258. Se voce ja tiver passado por este
+aposento e matado o Minotauro, vai encontra-lo vazio. Saia e Digite 54.$
+
+
+@189001
+A porta abre para um corredor curto que termina varios metros adiante em outra porta, semelhante a
+que voce acabou de passar. Voce tenta escutar algo, mas nao ouve nada. Voce experimenta a
+macaneta e ela gira, permitindo que voce entre em outro aposento de tamanho semelhante. Mas este
+aposento e esplendidamente decorado, com um assoalho de marmore polido e paredes asperas
+pintadas de branco. Ha um quadro pendurado em cada uma das quatro paredes, e ha outra porta na
+parede norte. Voce pode atravessar o aposento diretamente ate a porta (Digite 90) ou pode parar
+para olhar os quadros (Digite 25).$
+
+
+@193001
+A porta abre e voce entra em um pequeno compartimento. Seus olhos se arregalam quando voce
+olha em volta e ve que as paredes do compartimento sao cobertas por trabalhos elaborados em
+pedra. Mosaicos e baixo-relevos em marmore conferem a este aposento um tipo de beleza que voce
+jamais tinha visto antes. Em um canto do aposento ha uma grande estatua de metal, representando
+uma criatura de um olho so. Em seu unico olho ha uma joia cintilante. Como nao parece haver
+nenhum outro caminho para sair do aposento, voce tera que voltar a encruzilhada - mas aquela
+grande joia e muito tentadora. Voce vai deixa-la onde esta e retornar a encruzilhada (Digite 93)
+ou tentara levar a joia com voce (Digite 338)?$
+
+
+@197001
+No topo da escadaria, a passagem faz uma curva fechada para o leste. Quando voce para para
+recuperar as forcas, ouve um rangido na rocha atras de voce. Voce se vira a tempo de ver uma
+pesada porta levadica tombar para trancar a passagem atras de voce. Voce so pode seguir adiante
+agora! Voce pode continuar em frente (Digite 48) ou verificar se ha passagens secretas nas
+paredes (Digite 295).$
+
+
+@205001
+A porta abre e voce se encontra em uma especie de cripta escura. O aposento e muito grande. Ha
+um altar em uma das extremidades e varios caixoes encontram-se espalhados pelo chao. Ha uma
+porta atras de voce, na parede sul, e tambem outra na parede oeste. Se quiser investigar melhor o
+aposento, Digite 254. Se o lugar o deixa perturbado, voce pode sair pela porta do oeste (va para
+380).$
+
+@208001 
+Mais adiante na passagem, seguindo a parede oeste, voce ve outra porta. Voce
+escuta com o ouvido colado nela, mas nao ouve nada. Se quiser tentar abrir esta
+porta, Digite 397. Se quiser continuar na direcao norte, Digite 363.$
+
+@213001
+A porta esta trancada. Voce pode tentar derruba-la jogando dois dados. Se o
+numero obtido for igual ou menor do que o seu indice de HABILIDADE, a porta cede
+e abre - Digite 36. Se o numero for maior do que o seu indice de HABILIDADE, a porta
+permanece trancada, voce perde 1 ponto de ENERGIA pelo ombro machucado e tera
+que prosseguir pela passagem - Digite 314.$
+
+@218001 
+Voce esta na margem sul de um rio subterraneo, olhando para as profundezas
+negras da agua sem ver o outro lado. Parece haver quatro maneiras de atravessa-lo.
+A sua esquerda, um sino enferrujado tem um letreiro pendurado dizendo: "Servico
+de Travessia: 2 Pecas de Ouro - Por Favor, Toque." Ha uma jangada pequena
+atracada na margem com uma longa vara a seu lado: voce poderia atravessar o rio
+impulsionando a jangada com a vara. Uma velha ponte fragil atravessa o rio a
+direita. Se voce nao confia em nenhuma dessas alternativas, pode tambem nadar.
+Qual destas opcoes voce escolhe?
+                 Tocar o sino                       Digite 3
+                 Atravessar de jangada              Digite 386
+                 Arriscar a ponte                   Digite 209
+                 Nadar                              Digite 316$
+
+@221001 
+Quais sao estes objetos misteriosos que voce recolheu? Qual deles voce anotou
+primeiro na sua Lista de Equipamento?
+                A armadura?               Digite 72
+                O escudo?                 Digite 132
+                A espada?                 Digite 27
+                O ouro?                   Digite 110
+                O crucifixo?              Digite 170$
+
+@240001 
+A caixa e leve, mas alguma coisa chacoalha dentro dela. Voce abre a tampa e
+uma pequena SERPENTE salta para morder seu pulso! Voce tera que lutar contra a
+Serpente.
+SERPENTE       HABILIDADE 5            ENERGIA 2
+Se voce matar a Serpente, Digite 145.$
+
+@242001 
+A porta abre e revela um pequeno aposento na penumbra. As paredes sao
+cobertas de cortinas ornamentadas, com passamanarias de ouro e prata. Uma unica
+chama queima em um dos cantos, lancando luz sobre uma mesa baixa no meio do
+assoalho. Ha uma grande arca nessa mesa. Voce avanca para investigar a arca e de
+todos os lados, mas ao mesmo tempo de lugar nenhum, sai um som que enche o
+apartamento. Parece o estrondo de trovoes que se preparam para se transformar em
+uma tempestade. Voce se aproxima da arca e pode ver que tres fechaduras a mantem
+fechada. Conforme voce se aproxima, o ruido fica mais alto ainda. Voce:
+         Da um golpe de espada na caixa
+           para tentar corta-la em duas?                   Digite 379
+         Procura em sua mochila para ver se
+           encontra chaves que possam servir?              Digite 139$
+
+@246001 
+Voce parte para o sul por uma passagem calcada com pedras redondas. Ela vira
+para o oeste, depois para o sul, depois para o oeste de novo ate que voce se ve em
+um encontro de tres caminhos.
+         Para seguir para o norte            Digite 329
+         Para seguir para o oeste            Digite 180
+         Para seguir de volta para o leste   Digite 70$
+
+@253001 
+A passagem termina em outra porta de madeira, desta vez uma pequena com uma
+macaneta entalhada de osso. Voce escuta, mas nao ouve nada vindo do lado de
+dentro. Voce tenta a macaneta e a porta abre para um aposento em forma de uma
+pera com um assoalho de pedra aspera, o que torna caminhar sobre ele de certa
+forma uma coisa desconfortavel. Ha uma pilha de detritos em um dos cantos,
+sobretudo poeira e pedras, mas ha tambem dois pedacos de madeira de formato
+incomum e um pedaco de corda. Uma porta na parede norte da para fora. Voce:
+         Examinara os pedacos de madeira?           Digite 328
+         Analisara o pedaco de corda?               Digite 125
+         Saira pela porta norte?                    Digite 73$
+
+@255001 
+A passagem termina em uma espessa porta de madeira. Se voce quiser tentar
+abri-la, Digite 193. Se quiser voltar para o cruzamento e tentar outro caminho, Digite 93.$
+
+@258001 
+Voce examina os potes quebrados e acha pouca coisa de interessante. O liquido
+tem a aparencia, cheiro e gosto de agua. As moedas que estao no pote sao falsas.
+Ha oito Pecas de Ouro genuinas na superficie da pilha (voce pode levar essas),
+mas embaixo ha somente pedacos de potes pintados. Ao virar o vaso, ele escorrega
+e cai, se quebrando. Aparece uma chave de cor vermelha que estava escondida
+dentro de um fundo falso na vasilha. Voce pode levar consigo esta chave. O numero
+111 esta gravado nela.$ Voce pode descansar aqui e comer algumas Provisoes.
+Pode tambem adicionar 2 pontos de SORTE por ter derrotado o MINOTAURO.
+Finalmente, voce sai do aposento. Digite 54.$
+
+@263001 
+Voce grita: "voce esta livre, velho!" o mais alto possivel. Imediatamente, seu
+discurso bombastico se interrompe. Ele para e desaba no chao, chorando alto.
+Enquanto se recompoem gradualmente, ele lhe agradece muitas vezes. Voce
+conversa com ele na esperanca de descobrir alguns dos segredos da montanha, e
+ele comeca a contar a historia dele.
+Ha muitos anos atras, ele era um aventureiro como voce em busca do tesouro do
+Feiticeiro. Foi capturado pelos Orcas e jogado em uma cela solitaria como uma
+especie de bicho de estimacao para os seres. Voce lhe pergunta se ele gostaria de
+acompanha-lo na aventura, mas ele simplesmente quer sair e ver o mundo la fora
+de novo. Voce pede conselhos, mas ele diz que sabe muito pouco. Ele o aconselha a
+tratar o barqueiro com todo o respeito. Ele lhe diz que a alavanca da direita e a que
+voce deve puxar na parede em frente para abrir o portao de ferro no final da
+passagem. Ele tambem descobriu que as chaves da Casa Flutuante sao guardadas
+por um homem e seu cachorro.
+Voces apertam as maos um do outro, saem do aposento e vao cada um para o seu
+caminho. Acrescente 1 ponto de SORTE. Digite 314.$
+
+@267001 
+Voce agora esta novamente em uma encruzilhada.
+         Para seguir para o norte             Digite 312
+         Para seguir para o sul               Digite 246
+         Para seguir para o oeste             Digite 79
+         Para seguir para o leste             Digite 349$
+
+@272001 
+Ele se acalma, pega o Ouro (desconte isso de seu total acumulado de Ouro) e
+leva voce remando para a margem norte. Depois de atracar o barco, ele some a
+passo lento por uma passagem. Volte para 7.$
+
+@273001 
+Uma ligeira busca no aposento nao revela nada de valor, embora uma velha caixa
+em um canto contenha uma marreta de madeira e cinco pedacos de madeira curtos,
+afiados em uma das pontas. Voce pode leva-los se quiser e sair agora pela porta da
+parede norte. Digite 189.$
+
+@274001 
+Voce sai da caverna por um corredor longo e estreito. Depois de algumas
+centenas de metros, ele termina em uma grande porta de madeira que esta
+entreaberta. Cautelosamente, voce vai abrindo a porta um pouco mais e poe a
+cabeca por ela para ver o que ha no aposento do outro lado. Voce ve um velho
+pequeno sentado em uma mesa distraido e sozinho, jogando cartas. Ele parece
+uma boa alma inofensiva, de barba e cabelos grisalhos. Esta sentado. O que voce
+fara?
+         Irromper pela porta, com a espada na mao,
+            para surpreender o velho?                             Digite 324
+         Bater na porta e entrar, cumprimentando o
+            velho educadamente?                                           Digite 356
+         Agachar-se e tentar entrar no aposento de quatro
+            sem ser notado?                                        Digite 98$
+
+@282001 
+Os quatro seres que se arrastam na sua direcao sao ZUMBIS desprovidos de
+mente. Seus olhos vazios sugerem que suas acoes sao controladas por uma
+vontade que nao e a deles. Voce esta tonto demais para raciocinar direito, mas
+precisa agir rapidamente. O primeiro Zumbi chega perto de voce e se prepara
+para erguer o seu porrete. Voce tem que lutar contra ele.
+ZUMBI           HABILIDADE 7            ENERGIA 6
+Se voce derrotar o primeiro Zumbi, adicione 2 pontos de SORTE e vire-se para
+enfrentar os outros tres (lute com um de cada vez):
+                              HABILIDADE             ENERGIA
+ZUMBI com foice                   6                     6
+ZUMBI com picareta                6                     6
+ZUMBI com machado                 6                     5
+Se voce derrotar os quatro, Digite 115.$
+
+@285001 
+Voce ve uma porta bem desgastada a direita (leste) da passagem. Pondo o
+ouvido na fechadura, voce ouve um homem gritando por socorro do lado de
+dentro. Voce abre a porta (Digite 213) ou segue em frente (Digite 314)?$
+
+@286001 
+Uma escadaria estreita cortada na rocha desce cerca de vinte degraus. No
+pe da escada, uma passagem leva a uma grande camara aberta. Esta camara
+cheira mal, tem cheiro de carne podre. O cheiro e tao ruim que voce sente
+vontade de voltar. Ha tres corpos na camara. Voce pode revistar os cadaveres
+ou sair silenciosamente na ponta dos pes, atravessando o aposento. Voce:
+         Revista o primeiro corpo?                          Digite 294
+         Revista o segundo corpo?                           Digite 275
+         Revista o terceiro corpo?                          Digite 148
+         Atravessa o aposento na ponta dos pes?             Digite 107$
+
+@296001 
+A caixa contem um pequeno livro encadernado em couro, intitulado A Origem e
+Emissao do Fogo de Dragao. Voce abre o livro e comeca a ler. Felizmente esta
+escrito na sua lingua e, por isso, provavelmente nao foi compreendido pelos
+Orcas - do contrario, este tesouro nao estaria guardado tao desleixadamente
+quanto estava. O livro foi escrito a mao, em letra pequena, por Farrigo Di
+Maggio. Nele, o autor conta a historia da obra de sua vida: a criacao do feitico
+do Fogo de Dragao, com o qual se poderia enfrentar Dragoes crueis. Voce le
+como, nos ultimos anos, Farrigo finalmente aperfeicoou seu feitico mas, na
+epoca, ja estava velho demais para fazer uso dele. Por isso ele completou seu
+livro, trancou-o em uma arca e o escondeu nas profundezas da Montanha de
+Fogo, com medo de que caisse em maos erradas. A ultima pagina dizia assim:
+                "E assim, voce que agora tem este livro,
+                possui em suas maos a obra de minha vida.
+                O poder de destruicao e seu, se voce o
+                quiser, mas nao o desperdice. Se voce usar o
+                feitico para o proposito para o qual foi
+                predestinado, sera consumido pelo proprio
+                mal e morrera pelo fogo de suas proprias
+                maos. Lembre-se: somente quando o
+                Dragao exalar o seu fogo contra voce e que
+                voce deve erguer os seus bracos e dizer:
+
+                             Ekil Erif
+                             Ekam Erif
+                             Erif Erif
+                             Di Maggio"
+
+Voce profere estas palavras lenta e suavemente. Subitamente, as paginas
+parecem brilhar e, quando este brilho desaparece, tambem desaparecem as
+palavras nas paginas do livro. Voce repete o feitico para si mesmo, a fim de
+memorizar as palavras, e sai do aposento. Digite 42.$
+
+@299001 
+A passagem segue para o leste por varios metros e depois muda para o norte.
+Voce anda por um bom tempo para o norte. Voce pode verificar se por acaso ha
+passagens secretas pelo caminho (Digite 260) ou simplesmente prosseguir para o
+norte (Digite 359).$
+
+@300001 
+Na parede leste da passagem voce ve outra porta, desta vez feita de metal solido.
+Ao parar junto a porta, voce ouve um som parecido com gritos de torturados
+vindo do interior. Se voce quiser tentar abrir a porta, Digite 102. Se resolver ignorar
+este aposento, e continuar pelo corredor, va para 303.$
+
+@301001 
+A sua esquerda, na parte oeste da passagem, ha uma porta de madeira rustica.
+Voce para junto a ela e ouve um som aspero que poderia ser de algum tipo de
+criatura roncando. Voce quer abrir a porta? Em caso afirmativo, Digite 82. Se quiser
+seguir adiante para o norte, Digite 208.$
+
+ firmemente e avancando na sua direcao? Digite  142
+Vai procurar em sua mochila uma outra arma para usar? Digite  105
+Vai procurar pelo aposento outros meios de ataque ou defesa? Digite 389$
+
+
+@303001
+Voce chega ao final da passagem, onde ela encontra uma outra que vem do leste e vai para o oeste.
+Mas um portao de ferro levadico bloqueia a sua passagem e nao ha meio de abalar a sua estrutura a
+forca. Na parede a sua direita ha duas alavancas, e parece provavel que estas alavancas tenham
+alguma coisa a ver com o movimento do portao levadico. Voce quer puxar a alavanca da direita ou
+a da esquerda?
+
+   Direita       Digite  128
+   Esquerda      Digite  243$
+
+
+@308001
+Voce esta de pe em uma encruzilhada. Para o oeste, a passagem segue por uns poucos metros e vira
+para o norte. Para o norte, a passagem termina em uma porta. Para o leste, a passagem continua e
+acaba por tomar a direcao sul. Olhando para o sul, a passagem se estende ate onde a vista alcanc.
+ 
+   Para ir para o oeste          Digite  187
+   Para ir para o norte          Digite  54
+   Para ir para o sul            Digite  160
+   Para ir para o leste          Digite 354$
+
+
+@313001
+Voce examina o corpo. O pobre coitado foi evidentemente pego da mesma maneira que tentam
+pegar voce, mas seu cranio mais fraco partiu-se com o golpe do porrete. Ele esta usando um tipo de
+armadura de couro que nao e muito melhor que a sua, segura um escudo de madeira em um dos
+pulsos e traz uma espada de lamina de aco na outra mao. Em seus bolsos, ha oito Pecas de Ouro e
+em volta de seu pescoco um crucifixo de prata. Voce pode levar ate dois destes itens, a escolher.
+Anote isso em sua Lista de Equipamentos e Digite  221. Acrescente tambem 1 ponto de SORTE
+e 1 ponto de HABILIDADE.$
+
+
+@314001
+Seguindo mais adiante na passagem, voce ve uma porta na parede leste. Voce escuta atentamente,
+mas nao ouve nenhum som. Voce quer abrir a porta para investigar? Em caso afirmativo, Digite 
+223. Se quiser continuar caminhando pela mesma passagem, Digite  300.$
+
+
+@319001
+Para descobrir o segredo do segundo item que voce recolheu, Digite  221 para investigar. Se
+voce ja investigou ambos os itens, Digite  81.$
+
+
+@321001
+Digite  169.$
+
+
+@323001
+Depois de alguns metros, voce chega a outra juncao de tres caminhos. Voce pode ir na direcao norte
+(Digite  8) ou na direcao leste (Digite  255).$
+
+
+@329001
+Voce segue em frente e chega ao meio de uma passagem que vai do norte para o sul. Ha uma porta
+na parede oeste da passagem. Do lado oposto, ha uma passagem que segue na direcao leste. Para o
+norte, voce pode ver uma porta a alguns metros adiante. Para o sul, voce ve uma encruzilhada. Qual
+rumo voce escolhera?
+
+   A porta na parede oeste?              Digite  157
+   A porta ao norte?                       Digite 392
+   A direcao leste?                      Digite  299
+   A direcao sul?                        Digite  238$
+
+
+@338001
+Voce se aproxima da estatua cautelosamente. Um ruido de passos rapidos atras de voce faz com que
+voce se vire rapidamente... mas e apenas uma ratazana. Voce tenta puxar a joia, mas ela esta
+solidamente presa. Voce experimenta enfiar a sua espada por tras dela e, ao fazer isso, ouve uma
+fatidica sequencia de rangidos. Para seu horror, a estatua comeca a se mexer! Voce recua de um
+salto e desembainha a espada. O CICLOPE DE FERRO move a cabeca na sua direcao e desce de
+seu pedestal. Voce tera que lutar!
+
+CICLOPEDE FERRO              HABILIDADE 10          ENERGIA 10
+
+Se voce vencer, Digite  75. Se quiser Fugir durante o combate, pode correr pela porta de volta a
+encruzilhada. Digite  93.$
+
+
+@340001
+Voce
+
+ tenta varios itens do equipamento contra o poder do quadro, mas nenhum parece
+funcionar. Voce pode tentar qualquer um desses, se os tiver:
+
+   Cortar o quadro a golpes de espada                  Digite 388
+   Segurar uma joia a sua frente                       Digite  31
+   Enterrar uma estaca de madeira no quadro.           Digite  241
+   Jogar um queijo no quadro                           Digite  45$
+
+
+@354001
+Voce esta parado bem na curva da passagem, de onde voce pode seguir para o oeste ou para o sul.
+
+   Para seguir para o oeste                   Digite  308
+   Para seguir para o sul                     Digite  52
+   Se quiser verificar se ha passagens
+       secretas no caminho para o oeste       Digite  14
+   Se quiser verificar se ha passagens
+       secretas no caminho para o sul,        Digite  234$
+
+
+@356001
+O velho olha para voce, aceita seus cumprimentos e pede que voce se sente. Voce senta na mesa e
+repara que ele esta olhando fixamente para voce. Seu olhar penetrante esta se tornando hipnotico,
+mas voce compreende isso a tempo e rompe o contato de olhos nos olhos que estabeleceu. Ele abre
+a boca para falar e para a sua admiracao, ao inves de uma voz de velho, o aposento inteiro ressoa
+com a voz poderosa que parece estar vindo das proprias paredes. Voce olha de novo para o homem
+e pode ve-lo se transformando diante de seus olhos. Sua altura agora e imponente. Seus trapos
+velhos e esfarrapados tornaram-se vestimentas de veludo e ouro. Seus olhos negros estao fixados
+diretamente em voce. Ele ja esperava a sua visita... Digite 358.$
+
+@358001
+A batalha vai requerer todas as suas reservas de forca e raciocinio. Seu adversario evaporou e esta
+agora na extremidade oposta do aposento, em frente a uma porta com duas fechaduras. Como voce
+se aproximara dele?
+
+Segurando a sua espada firmemente e avancando na sua direcao?             Digite  142
+Vai procurar em sua mochila uma outra arma para usar?                     Digite  105
+Vai procurar pelo aposento outros meios de ataque ou defesa?              Digite  389$
+@359001
+Voce agora esta em uma encruzilhada.
+
+Para seguir para o norte Digite  190
+Para seguir para o sul Digite  94
+Para seguir para o leste Digite  121
+Para seguir para o oeste Digite 385$
+
+@363001
+Seguindo pela passagem na parede oeste, voce ve outra porta semelhante. Voce escuta junto a porta
+e faz uma careta ao ouvir a voz mais desafinada que seus ouvidos ja conheceram! Voce quer entrar
+no aposento para investigar o horroroso som (Digite 370) ou seguir adiante pela passagem (volte
+para 42)?$
+
+@364001
+Ao empurrar o cabo, um pequeno portal de pedra se abre. Voce pode ignora-lo e retornar a
+encruzilhada (Digite  256) ou pode passar por ele (Digite 373). Voce tem que tomar uma
+decisao rapidamente, uma vez que a porta se fechara sozinha dentro de um minuto.$
+
+@366001
+Voce esta seguindo por uma passagem que o leva mais adiante para o norte. Depois de varios
+metros, ela vira em um angulo fechado para o leste. Voce continua nesta direcao ate que acaba por
+chegar a uma abertura estreita na parede norte. Voce pode passar por esta abertura (Digite  89)
+ou continuar para o leste (Digite  62).$
+
+@367001
+Voce chega a uma outra encruzilhada na passagem. Se quiser tomar a direcao oeste, Digite  235.
+Se preferir seguir para o leste, Digite  323.$
+
+@370001
+A porta se abre e revela um pequeno aposento, que esta sujo e mal cuidado. Um colchao de palha se
+encontra em um dos cantos. No centro do aposento ha uma mesa de madeira, na qual brilha uma
+vela iluminando o ambiente com sua luz tremula. Uma pequena caixa repousa sobre a mesa.
+Sentados em volta da mesa estao dois seres pequenos, com a pele cheia de verrugas e vestidos com
+armaduras de couro. Estao tomando algum tipo de bebida forte e, pelo jeito como se levantam
+cambaleantes quando voce chega, demonstram estar muito embriagados. Voce pode empunhar a sua
+espada e ataca-los (Digite  116) ou fechar a porta rapidamente e correr subindo pela passagem
+(Digite  42).$
+
+@371001
+Sao e salvo por enquanto, voce investiga a caverna e encontra uma passagem que continua para o
+oeste. Digite  274. Voce pode descansar e comer umas Provisoes antes de continuar. Acrescente
+3 pontos de SORTE por ter derrotado o Dragao.$
+
+@373001
+Voce esta na extremidade sul de uma passagem que vai do norte para o sul - em um beco sem saida.
+Se for na direcao norte, chegara a uma encruzilhada. Digite  85.$
+
+@378001
+Voce limpa a sua espada ensanguentada no colchao. O sangue verde deixa uma mancha pastosa na
+palha. Passando por cima dos corpos na direcao da mesa, voce enjoa com o cheiro repelente dos
+seres mortos. Voce pega a caixa que esta embaixo da mesa e a examina.$
+
+E uma pequena caixa de madeira com dobradicas rusticas. O nome "Farrigo Di Maggio" esta
+gravado em uma placa de metal na tampa. Se quiser abrir a caixa, Digite  296. Se resolver deixa-
+la de lado e sair do aposento, Digite  42.$
+
+@380001
+Voce agora esta em um corredor estreito que vai de leste para oeste. A oeste, voce avista uma
+encruzilhada logo a frente. Voce pode seguir para a encruzilhada. Digite  37.$
+
+@382001
+Voce segura o Olho bem diante dele e a joia solta um brilho esmaecido. Voce a aponta em sua
+direcao e ele grita. Ele recua para um canto e um raio de luz irrompe da joia. Ao cair em cima dele,
+faz com que tombe no chao e se inicie uma transformacao extraodinaria: ele comeca a criar rogas e
+a ficar visivelmente envelhecido diante de voce. Sua pele se encarquilha e racha, e ele lentamente
+vai se tornando um amontoado disforme no canto. Passados alguns momentos, a joia para de reluzir
+e voce se aproxima daquela trouxa de roupas sem vida: tudo o que resta sao as suas vestimentas. Va
+para 396.$
+
+@385001
+Voce caminha na direcao oeste por algum tempo, depois a passagem vira para o norte. Um pouco
+mais adiante, voce chega a uma encruzilhada. Voce pode seguir para o sul (Digite  114) ou para
+o oeste (Digite  297). Para o norte, a passagem termina em pouco tempo em um beco sem saida.
+Se voce quiser seguir por aqui, Digite 398.$
+
+@391001
+Voce esta na extremidade sul de um corredor que vai do norte para o sul. Olhando para o norte,
+voce pode ver uma passagem que sai da parede leste. Voce quer:
+
+Seguir por esta passagem? Digite  52
+Verificar se ha outras passagens secretas enquanto segue para o norte? Digite  362
+Continuar para o sul, seguindo uma curva para o oeste? Digite  48$
+ 
+@396001
+Com o Feiticeiro agora derrotado, voce sabe que sua busca esta quase no fim. Voce se aproximada
+porta que tem duas fechaduras. Nao ha chaves por perto. Voce tira duas chaves de sua mochila e as
+experimenta nas fechaduras. Elas giram! Voce abre a porta e da uma olhada em volta. Digite 
+242 Se voce nao tiver nenhuma chave, pode tentar derrubar a porta, o que voce conseguira se gastar
+quase toda a sua ENERGIA.
+
+ Reduza a sua ENERGIA em 5 pontos e entre no aposento. Digite 
+242.$
+
+@397001
+A porta abre e revela um pequeno aposento de chao de pedra e paredes sujas. Ha um cheiro de mofo
+no ar. No centro do aposento, ha uma mesa improvisada de madeira, em cima da qual esta uma
+vela acesa. Sob a mesa, ha uma pequena caixa. No canto mais distante do aposento, ha um colchao de
+palha. Voce pode abrir a caixa (Digite  240) ou sair do aposento (Digite  363).$
+
+@398001
+Voce tateia pela parede rochosa no fim da passagem. Um pedaco de rocha se solta e revela uma
+pequena alavanca com um cabo na ponta. Voce vai empurra-la (Digite  364) ou puxa-la (volte
+para 12)?$
+
+@400001
+O Feiticeiro da Montanha de Fogo ja nao existe mais, e agora voce e o dono das riquezas do Bruxo:
+pelo menos mil Pecas de Ouro, alem de joias, diamantes, rubis e perolas estao na arca. Escondido
+bem abaixo dessas coisas, voce acha o livro de encantos do Feiticeiro e, ao folheá-lo, compreende
+que este compendio e provavelmente mais valioso do que todo o tesouro. Nele sao dadas instrucoes
+para controlar todos os segredos - e seres - da Montanha de Fogo. Com este livro voce possui um
+poder ilimitado, e a seguranca de seu retorno a vila esta garantida. Ou, se voce preferir, podera
+permanecer por la como senhor do dominio da Montanha de Fogo...$

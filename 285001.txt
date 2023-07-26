@@ -1,0 +1,6 @@
+ 
+Voce ve uma porta bem desgastada a direita (leste) da passagem. Pondo o
+ouvido na fechadura, voce ouve um homem gritando por socorro do lado de
+dentro. Voce abre a porta (Digite 213) ou segue em frente (Digite 314)?$
+Digite 213 
+Digite 314 

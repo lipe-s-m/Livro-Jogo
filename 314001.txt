@@ -1,0 +1,6 @@
+
+Seguindo mais adiante na passagem, voce ve uma porta na parede leste. Voce escuta atentamente,
+mas nao ouve nenhum som. Voce quer abrir a porta para investigar? Em caso afirmativo, Digite 
+223. Se quiser continuar caminhando pela mesma passagem, Digite  300.$
+Digite 223 
+Digite 300 

@@ -1,0 +1,5 @@
+
+Voce chega a uma outra encruzilhada na passagem. Se quiser tomar a direcao oeste, Digite  235.
+Se preferir seguir para o leste, Digite  323.$
+Digite 235 
+Digite 323 

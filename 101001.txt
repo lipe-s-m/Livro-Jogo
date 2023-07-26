@@ -1,0 +1,5 @@
+Voce finalmente derrota os goblins. O anao lhe agradece, e 
+em troca de sua bondade, ele lhe entrega sua espada. Ela é muito leve
+e afiada, voce pega a espada dele pra si. HABILIDADE + 3
+
+Digite 303 para voltar ao corredor.$

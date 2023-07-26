@@ -1,0 +1,5 @@
+
+Depois de alguns metros, voce chega a outra juncao de tres caminhos. Voce pode ir na direcao norte
+(Digite  9) ou na direcao leste (Digite  255).$
+Digite 9 
+Digite 255 

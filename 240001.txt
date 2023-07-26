@@ -1,0 +1,8 @@
+ 
+A caixa e leve, mas alguma coisa chacoalha dentro dela. Voce abre a tampa e
+uma pequena SERPENTE salta para morder seu pulso! Voce tera que lutar contra a
+Serpente.
+
+||==================================================||
+||  SERPENTE        HABILIDADE 5         ENERGIA 5  ||
+||==================================================||

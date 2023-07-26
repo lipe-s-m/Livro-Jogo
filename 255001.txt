@@ -1,0 +1,5 @@
+ 
+A passagem termina em uma espessa porta de madeira. Se voce quiser tentar
+abri-la, Digite 193. Se quiser voltar para o cruzamento e tentar outro caminho, Digite 93.$
+Digite 193 
+Digite 93 

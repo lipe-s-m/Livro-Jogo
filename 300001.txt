@@ -1,0 +1,7 @@
+ 
+Na parede leste da passagem voce ve outra porta, desta vez feita de metal solido.
+Ao parar junto a porta, voce ouve um som parecido com gritos de torturados
+vindo do interior. Se voce quiser tentar abrir a porta, va para 102. Se resolver ignorar
+este aposento, e continuar pelo corredor, va para 303.$
+Digite 102 
+Digite 303$

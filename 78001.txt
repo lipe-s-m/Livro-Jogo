@@ -1,0 +1,10 @@
+Voce chega a uma varanda aberta, como se fosse a vista de cima de um calabouco.
+Em baixo dessa varanda, a muitos metros de distancia, a uma especie de cemiterio. 
+Voce sente uma sensacao familiar, como se ja tivesse passado ali antes.
+O lugar eh frio, repleto de cadaveres. No chao, ha vestigios de 
+vestimentas parecidas com as que voce esta usando, e algumas armas quebradas. 
+Em meio aos escombros, voce ve  diversas lapides envoltas de teias de aranhas, 
+com nomes escritos em cada uma delas, voce decide olhar elas (Digite 159).
+Ou voce pode voltar a seguir seu caminho (Digite 285)
+Digite 159
+Digite 285$

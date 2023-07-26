@@ -1,0 +1,5 @@
+Ao final da passagem, voce se depara com uma escada em espiral, no final dessa escada
+voce se depara com dois corredores, um indo na direcao sul (10), e outro na direcao norte (5).
+No final de cada corredor ha uma porta grande de ferro.
+Digite 10 para ir pro sul. 
+Digite 5 para ir pro norte.$

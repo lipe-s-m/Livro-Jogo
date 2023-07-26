@@ -1,0 +1,10 @@
+
+Voce chega ao final da passagem, onde ela encontra uma outra que vem do leste e vai para o oeste.
+Mas uma ponte levadica de madeira bloqueia a sua passagem e nao ha meio de abalar a sua estrutura a
+forca. Na parede a sua direita ha duas alavancas, e parece provavel que estas alavancas tenham
+alguma coisa a ver com o movimento do portao levadico. Voce quer puxar a alavanca da direita ou
+a da esquerda?
+
+   Direita       Digite  128
+   Esquerda      Digite  243$
+$

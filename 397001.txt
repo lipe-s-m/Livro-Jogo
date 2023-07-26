@@ -1,0 +1,7 @@
+
+A porta abre e revela um pequeno aposento de chao de pedra e paredes sujas. Ha um cheiro de mofo
+no ar. No centro do aposento, ha uma mesa improvisada de madeira, em cima da qual esta uma
+vela acesa. Sob a mesa, ha uma pequena caixa. No canto mais distante do aposento, ha um colchao de
+palha. Voce pode abrir a caixa (Digite  240) ou sair do aposento (Digite  363).$
+Digite 240 
+Digite 363 

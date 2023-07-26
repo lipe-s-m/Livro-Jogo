@@ -1,0 +1,13 @@
+Ha uma grande e rigida mesa e cadeira posiciona-
+das no centro da sala. Um enorme Orc usando uma
+cota de malha e brandindo um longo chicote de couro
+com a mao erguida esta em pe no canto a noroeste.
+Encolhendo-se abaixo do Orc esta um Goblin, muito
+menor em tamanho. O Goblin choraminga enquanto o
+Orc o acerta continuamente com o chicote. 
+Atras desse enorme Orc tem uma brilhante espada, voce 
+se sente tentado em pegar a espada, mesmo sabendo do perigo
+que voce ira correr (Digite 357). Caso queira voltar, va para Digite 113.
+
+Digite 357
+Digite 113$

@@ -1,0 +1,9 @@
+Você entra na sala, ergue sua espada, e corre em direcao aos goblins.
+Os goblins parecem estar felizes em te ver, eles acham que voce sera
+mais um brinquedo pra eles.
+
+||==================================================||
+|| Goblins Insanos     HABILIDADE 9     ENERGIA 7   ||
+||==================================================||
+
+$
