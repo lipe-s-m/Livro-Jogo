@@ -6,5 +6,8 @@ fatidica sequencia de rangidos. Para seu horror, a estatua comeca a se mexer! Vo
 salto e desembainha a espada. O CICLOPE DE FERRO move a cabeca na sua direcao e desce de
 seu pedestal. Voce tera que lutar!
 
-CICLOPE DE FERRO              HABILIDADE 12          ENERGIA 15
+||==================================================||
+||  CICLOPE       HABILIDADE 12         ENERGIA 15  ||
+||==================================================||
+
 $
